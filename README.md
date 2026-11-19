@@ -1332,6 +1332,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [RevoGrid Gantt](https://github.com/revolist/gantt) - Gantt charts for project tasks, dependencies, and timelines. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/gantt/).
 * [moguchart-core](https://github.com/hiro-murakami/moguchart-core) - A lightweight yet feature-rich Gantt chart Web Component built with Lit.
 * [ngx-linear-pie](https://github.com/feature23/ngx-linear-pie) - A linear "pie" chart component for Angular Material.
+* [Syncfusion Angular Charts](https://www.syncfusion.com/angular-components/angular-charts) - 55+ interactive chart and graph types.
 
 ### Cookies
 
