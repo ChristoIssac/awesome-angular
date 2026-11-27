@@ -1247,6 +1247,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-modern-calendar](https://github.com/angx-libs/ngx-modern-calendar) - A small, themeable, multi-language calendar component for Angular.
 * [RevoGrid Scheduler](https://github.com/revolist/scheduler) - Event and resource scheduling with calendar and timeline views. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/event-scheduler/introduction/).
 * [ngx-lanes](https://github.com/dmartinezzm/ngx-lanes) - Virtualized resource timeline for Angular 19+ that keeps 1,000 rows and 10,000 bars smooth, built with signals and zoneless-ready.
+* [Syncfusion Angular Scheduler](https://www.syncfusion.com/scheduler-sdk/angular-scheduler) - Event calendar with day, week, month, timeline and agenda views, resource grouping and drag-and-drop.
 
 ### Captcha
 
@@ -1325,6 +1326,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [RevoGrid Gantt](https://github.com/revolist/gantt) - Gantt charts for project tasks, dependencies, and timelines. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/gantt/).
 * [moguchart-core](https://github.com/hiro-murakami/moguchart-core) - A lightweight yet feature-rich Gantt chart Web Component built with Lit.
 * [ngx-linear-pie](https://github.com/feature23/ngx-linear-pie) - A linear "pie" chart component for Angular Material.
+* [Syncfusion Angular Charts](https://www.syncfusion.com/angular-components/angular-charts) - 55+ interactive chart and graph types.
+* [Syncfusion Angular Gantt Chart](https://www.syncfusion.com/gantt-sdk/angular-gantt-chart) - Gantt chart with task dependencies, resource view, timeline zooming and drag-and-drop editing.
+* [Syncfusion Angular Diagram](https://www.syncfusion.com/diagram-sdk/angular-diagram) - Diagram component for flowcharts, org charts, mind maps and BPMN diagrams.
 
 ### Cookies
 
@@ -1391,6 +1395,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-bs-grid](https://github.com/BlockSurvey/bs-grid) - A zero-dependency MIT-licensed Angular data grid.
 * [argus-table](https://github.com/Joessst-Dev/argus-table) - A framework-agnostic, virtualized data table web component built with Lit and TanStack.
 * [dzgrid](https://github.com/plinthworks/dzgrid) - A data grid written from scratch in TypeScript, for applications where right-to-left text, Arabic, time zones and screen readers are not an afterthought.
+* [Syncfusion Angular Data Grid](https://www.syncfusion.com/angular-components/angular-data-grid) - Data grid with virtualization, Excel-like filtering, grouping, editing and Excel/PDF export.
+* [Syncfusion Angular Tree Grid](https://www.syncfusion.com/angular-components/angular-tree-grid) - Tree grid for hierarchical data with sorting, filtering, editing and Excel/PDF export.
+* [Syncfusion Angular Pivot Table](https://www.syncfusion.com/angular-components/angular-pivot-table) - Pivot table with grouping, aggregation, drill-down, a field list and Excel/PDF export.
+* [Syncfusion Angular Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/angular-spreadsheet-editor) - Spreadsheet with formulas, formatting and XLSX import and export.
 
 ### Dates
 
@@ -1530,6 +1538,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Sqwig](https://sqwig.com/) - Rich text editor with spellcheck built in.
 * [angular-mrydex-editor](https://github.com/MRydex/angular-mrydex-editor) - Generic, plugin-driven rich text editor built on Tiptap for Angular 21.2+.
 * [viveEditor](https://github.com/mtvrkan/viveeditor) - A free, open-source rich text editor that drops into any website.
+* [Syncfusion Angular Rich Text Editor](https://www.syncfusion.com/rich-text-editor-sdk/angular-rich-text-editor) - WYSIWYG and Markdown editor with tables, image upload, paste cleanup and a customizable toolbar.
+* [Syncfusion Angular DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/angular-docx-editor) - Word document editor for creating, editing and viewing DOCX files in the browser.
 
 ### File Upload
 
@@ -1777,6 +1787,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [fold.js](https://github.com/christophe77/fold.js) - An open-source JavaScript library that makes web apps work properly on foldable phones.
 * [RevoGrid Kanban](https://github.com/revolist/kanban) - Kanban boards for organizing work into columns and moving cards between them. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/kanban/).
 * [LeafThrough](https://github.com/dmtrbrl/leafthrough) - Realistic 3D page-turning magazine for the web.
+* [Syncfusion Angular Kanban](https://www.syncfusion.com/gantt-sdk/angular-kanban-board) - Kanban board with swimlanes, card templates, WIP limits and drag-and-drop.
+* [Syncfusion Angular Dashboard Layout](https://www.syncfusion.com/angular-components/angular-dashboard-layout) - Grid-based layout of draggable and resizable panels for dashboards.
 
 ### Loaders
 
@@ -1827,6 +1839,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [workletjs](https://github.com/workletjs/workletjs) - An Angular map component library that provides seamless integration with OpenLayers, enabling developers to create interactive and customizable maps.
 * [ng-simple-maps](https://github.com/hanafnafs/ng-simple-maps) - Beautiful, lightweight SVG world maps for Angular applications.
 * [ng-mapcn](https://github.com/juanvieiraprado99/ng-mapcn) - A set of composable MapLibre GL map components for Angular.
+* [Syncfusion Angular Maps](https://www.syncfusion.com/angular-components/angular-maps-library) - Maps component for geographical data with markers, bubbles, legends and GeoJSON shapes.
 
 ### Markdown
 
@@ -2008,6 +2021,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [rm-ng-pdf-export](https://github.com/malikrajat/rm-ng-pdf-export) - Angular library for generating and exporting ultra-high-quality PDFs from HTML content with smart page breaking and crystal-clear rendering.
 * [ngpdf](https://github.com/ngpdf/ngpdf) - Write PDFs as Angular components: pdf-* elements laid out with flexbox, paginated tables with repeating headers, page numbers and selectable text, rendered in the browser.
 * [embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - Embeddable PDF viewer for plain HTML, React, Vue, Svelte, and Angular.
+* [Syncfusion Angular PDF Viewer](https://www.syncfusion.com/pdf-viewer-sdk/angular-pdf-viewer) - View, annotate, fill forms in and sign PDF files.
 
 ### Pipes
 
